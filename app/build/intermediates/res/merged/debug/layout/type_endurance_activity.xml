@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="5dp"
+    android:stretchColumns="1">
+    <TableRow 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        
+       	<TextView 
+		    android:id="@+id/totalTimeTitle"
+		    android:text="Total Time:"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="5dp"
+		    style="@style/SubText"/>
+	        
+	    <EditText 
+	        android:id="@+id/totalTimeEdit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:inputType="number"
+		    android:layout_marginLeft="10dp"		    
+		    android:layout_marginRight="10dp"/>
+	    <TextView 
+		    android:id="@+id/totalTimeUnits"
+		    android:text="min"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="5dp"
+		    android:paddingRight="5dp"
+		    style="@style/SubText"/>
+    </TableRow>
+    
+    <TableRow 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+	    
+        <TextView 
+		    android:id="@+id/DistanceTitle"
+		    android:text="Distance:"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    style="@style/SubText"/>
+	        
+	    <EditText 
+	        android:id="@+id/DistanceEdit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+	        android:inputType="numberDecimal"/>
+	    
+	    <TextView 
+		    android:id="@+id/DistanceUnits"
+		    android:text="km"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    style="@style/SubText"/>
+	 </TableRow>
+	 
+     <TableRow 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+	    
+	    <TextView 
+		    android:id="@+id/altitudeTitle"
+		    android:text="Total climb:"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="10dp"
+		    style="@style/SubText"/>
+	        
+	     <EditText 
+	        android:id="@+id/altitudeEdit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:inputType="numberDecimal"/>
+	     <TextView 
+		    android:id="@+id/altitudeUnits"
+		    android:text="m"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    style="@style/SubText"/>
+    </TableRow>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">	     
+        
+        <TextView 
+		    android:id="@+id/avgHRtext"
+		    android:text="avgHR:"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="10dp"
+		    android:layout_weight="1"
+		    style="@style/SubText"/>
+	        
+	     <EditText 
+	        android:id="@+id/avgHREdit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:inputType="number"/>
+	     
+	     <TextView 
+		    android:id="@+id/maxHRTitle"
+		    android:text="maxHR:"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="10dp"
+		    android:layout_weight="1"
+		    style="@style/SubText"/>
+	        
+	     <EditText 
+	        android:id="@+id/maxHREdit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:inputType="number"/>
+        
+    </LinearLayout>
+    
+     	 <LinearLayout 
+	        android:id="@+id/info"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical">
+		    <TextView 
+		        android:id="@+id/activityInfoTitle"
+		        android:paddingTop="10dp"
+		        android:text="More Info:"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        style="@style/SubText"/>
+		
+			<EditText 
+				android:id="@+id/detailsEdit"
+				android:lines="3"
+				android:gravity="top|left"
+				android:scrollHorizontally="false"
+				android:inputType="textMultiLine"
+				android:layout_height="fill_parent"
+				android:layout_width="fill_parent"/>
+		</LinearLayout>
+
+</TableLayout>

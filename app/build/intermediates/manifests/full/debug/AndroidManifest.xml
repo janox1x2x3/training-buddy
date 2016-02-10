@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sk.android.training"
+    android:versionCode="11"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="sk.android.training.SplashActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sk.android.training.LoginActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="sk.android.training.RegistrationActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="sk.android.training.CalendarViewActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="sk.android.training.DayLogActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="sk.android.training.CreateActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="sk.android.training.AboutActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:logo="@drawable/logo_top"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

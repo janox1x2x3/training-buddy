@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<ScrollView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" >
+	
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical"
+	        android:padding="5dp" >
+	        
+	        <TextView
+				    android:id="@+id/personal_info"
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+				    android:text="Personal Details:"
+				    style="@style/EditText" />
+	        
+	        <RelativeLayout 
+	            android:layout_height="wrap_content"
+	            android:layout_width="fill_parent">
+	            
+	            <ImageView 
+	                android:id="@+id/avatar"
+	                android:src="@drawable/avatar"
+	                android:layout_width="100dp"
+	                android:layout_height="120dp"
+	                android:scaleType="fitXY"
+	                android:layout_marginRight="10dp"
+	                android:layout_alignParentRight="true"/>
+	        
+		        <TableLayout 
+		            android:id="@+id/personalTable"
+		            android:layout_height="fill_parent"
+		            android:layout_width="fill_parent"
+		            android:stretchColumns="*"
+		            android:layout_toLeftOf="@id/avatar">
+		            <TableRow 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content">
+			            
+				        <TextView
+						    android:id="@+id/nameText"
+						    android:layout_width="fill_parent"
+						    android:layout_height="wrap_content"
+						    android:text="Name:"
+						    android:textColor="#33B5E5"
+						    style="@style/SubText" />
+				        <TextView 
+				            android:id="@+id/nameEdit"
+				            android:text="Jan Jancek"
+				            android:layout_width="fill_parent"
+				            android:layout_height="wrap_content"
+				            style="@style/SubText"/>
+				        
+			        </TableRow>
+			        
+			        <TableRow 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content">
+			            
+				        <TextView
+						    android:id="@+id/birthText"
+						    android:layout_width="wrap_content"
+						    android:layout_height="wrap_content"
+						    android:text="Age:"
+						    android:textColor="#33B5E5"
+						    style="@style/SubText" />
+				        <TextView 
+				            android:id="@+id/ageEdit"
+				            android:text="25"
+				            android:layout_width="fill_parent"
+				            android:layout_height="wrap_content"
+				            style="@style/SubText"/>
+				        
+			        </TableRow>
+			        
+			        <TableRow 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content">
+			            
+				        <TextView
+						    android:id="@+id/sportText"
+						    android:layout_width="wrap_content"
+						    android:layout_height="wrap_content"
+						    android:textColor="#33B5E5"
+						    android:text="Sport:"
+						    style="@style/SubText" />
+				        <TextView 
+				            android:id="@+id/sportEdit"
+				            android:text="Canoe Slalom"
+				            android:layout_width="fill_parent"
+				            android:layout_height="wrap_content"
+				            style="@style/SubText"/>
+				        
+			        </TableRow>
+			        
+			        <TableRow 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content">
+			            
+				        <TextView
+						    android:id="@+id/homeText"
+						    android:layout_width="wrap_content"
+						    android:layout_height="wrap_content"
+						    android:textColor="#33B5E5"
+						    android:text="Home:"
+						    style="@style/SubText" />
+				        <TextView 
+				            android:id="@+id/homeEdit"
+				            android:text="Dolny Kubin"
+				            android:layout_width="fill_parent"
+				            android:layout_height="wrap_content"
+				            style="@style/SubText"/>
+				        
+			        </TableRow>
+			        
+			        <TableRow 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content">
+			            
+				        <TextView
+						    android:id="@+id/countryText"
+						    android:layout_width="wrap_content"
+						    android:layout_height="wrap_content"
+						    android:textColor="#33B5E5"
+						    android:text=""
+						    style="@style/SubText" />
+				        <TextView 
+				            android:id="@+id/countryEdit"
+				            android:text="Slovakia"
+				            android:layout_width="fill_parent"
+				            android:layout_height="wrap_content"
+				            style="@style/SubText"/>
+				        
+			        </TableRow>		        
+		        </TableLayout>
+		        
+		        <TableLayout 
+		            android:id="@+id/bioTable"
+		            android:layout_width="fill_parent"
+		            android:layout_height="fill_parent"
+		            android:stretchColumns="*"
+		            android:paddingTop="5dp"
+		            android:layout_below="@id/personalTable">
+			        <View 
+				        android:layout_height="1dp"
+				        android:layout_width="fill_parent"
+				        android:paddingRight="5dp"
+				        android:paddingLeft="5dp"
+				        android:background="#33B5E5"/>
+		            
+		            <TextView
+				        android:id="@+id/fit_info"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:text="Bio Details:"			        
+		           		android:paddingTop="5dp"
+				        style="@style/EditText" />
+		            
+		            <TableRow 
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content">
+	             
+			            <TextView
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+						    android:textColor="#33B5E5"
+					        android:text="Weight:"
+					        style="@style/SubText" />"
+				        
+					    <TextView 
+					        android:id="@+id/weightEdit"
+					        android:text="82"
+					        style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>
+					    
+					    <TextView
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:text="Height:"
+						    android:textColor="#33B5E5"
+					        style="@style/SubText"  />"
+				        
+					    <TextView 
+					        android:id="@+id/heightEdit"
+					        android:text="181"
+			                style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>
+					</TableRow>
+					
+		            <TableRow 
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content">
+	             
+			            <TextView
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:text="HR Max:"
+						    android:textColor="#33B5E5"
+					        style="@style/SubText" />"
+				        
+					    <TextView 
+					        android:id="@+id/HRmaxEdit"
+			                android:text="203"
+			                style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>
+					    
+					    <TextView
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:text="Rest HR:"
+						    android:textColor="#33B5E5"
+					        style="@style/SubText" />"
+					        
+					    <TextView 
+					        android:id="@+id/HRbasalEdit"
+					        android:text="50"
+			                style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>
+			    
+			   		</TableRow>
+			   		
+		            <TableRow 
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content">
+				    
+	                <TextView
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="VO2 Max:"
+						android:textColor="#33B5E5"
+				        style="@style/SubText" />"
+				        
+				    <TextView 
+				        android:id="@+id/VO2edit"
+					        android:text="55"
+			                style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>
+				    
+				    <TextView
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="Fat(%):"
+						android:textColor="#33B5E5"
+				        style="@style/SubText" />"
+				        
+				    <TextView
+				        android:id="@+id/fatEdit"
+					        android:text="9"
+			                style="@style/SubText"
+			                android:layout_height="wrap_content"
+			                android:layout_width="fill_parent"/>  
+				    
+	            </TableRow>	            
+		    </TableLayout>
+		        
+		        	<TextView
+	           		    android:id="@+id/detailsText"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/bioTable"
+				        android:paddingTop="5dp"
+						android:textColor="#33B5E5"
+				        android:text="More Info:"
+				        style="@style/SubText" />"
+				        
+					<TextView
+				        android:id="@+id/detailsEdit"
+		                android:lines="3"
+		                android:gravity="top|left"
+		                android:scrollHorizontally="false"
+		                android:layout_height="wrap_content"
+		                android:layout_width="fill_parent"
+		                android:layout_below="@id/detailsText"
+				        style="@style/SubText"/>
+	        </RelativeLayout>
+	    </LinearLayout>
+	</ScrollView>
+</LinearLayout>

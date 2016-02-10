@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="CreatixButton">
+        <attr name="buttonText" format="string"/>
+        <attr name="buttonTextColor" format="reference"/>
+        <attr name="buttonIcon" format="reference"/>
+        <attr name="buttonColor" format="reference"/>
+        <attr name="centerInnerLayout" format="boolean"/>
+        <attr name="centerText" format="boolean"/>
+        <attr name="enabled" format="boolean"/>
+    </declare-styleable>
+</resources>

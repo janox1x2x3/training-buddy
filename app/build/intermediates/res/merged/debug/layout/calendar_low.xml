@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+    
+	<RelativeLayout 
+		android:id="@+id/headerCalendar"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" >
+	    
+	    <TextView  
+			android:id="@+id/titleMonth" 
+		    android:layout_height="wrap_content"
+		    android:layout_width="wrap_content"
+		    android:padding="5dp"
+		    android:paddingLeft="5dp"   
+			style="@style/MonthText" />
+
+        <ImageButton
+            android:id="@+id/nextMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/next" 
+            android:paddingRight="20dp"
+            android:background="@drawable/pressed_sel"
+			android:layout_alignParentRight="true"/>
+        
+        <ImageButton
+            android:id="@+id/previousMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/previous" 
+            android:background="@drawable/pressed_sel"
+            android:layout_toLeftOf="@id/nextMonth"/>
+        
+	</RelativeLayout>
+	
+	<TableLayout 
+	    android:id="@+id/daysOfWeekTable"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:stretchColumns="*"
+	    android:background="#045FB4"
+	    android:layout_below="@id/headerCalendar">
+	    <TableRow 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+		    <TextView 
+		        android:text="Mon"
+		        android:textColor="#ffffff"/>
+			<TextView 
+		        android:text="Tue"
+		        android:textColor="#ffffff"/>
+		    <TextView 
+		        android:text="Wed"
+		        android:textColor="#ffffff"/>
+			<TextView 
+		        android:text="Thu"
+		        android:textColor="#ffffff"/>
+		    <TextView 
+		        android:text="Fri"
+		        android:textColor="#ffffff"/>
+			<TextView 
+		        android:text="Sat"
+		        android:textColor="#ffffff"/>
+		    <TextView 
+		        android:text="Sun"
+		        android:textColor="#ffffff"/>
+	    </TableRow>
+	</TableLayout>
+
+	<GridView 
+	    android:id="@+id/gridviewNext"
+	    android:layout_width="match_parent" 
+	    android:layout_height="wrap_content"	    
+	    android:numColumns="7"
+	    android:stretchMode="columnWidth"	
+	    android:layout_below="@id/daysOfWeekTable"
+	    android:visibility="invisible"/>
+	
+	<GridView 
+	    android:id="@+id/gridviewPrevious"
+	    android:layout_width="match_parent" 
+	    android:layout_height="wrap_content"	    
+	    android:numColumns="7"
+	    android:stretchMode="columnWidth"	
+	    android:layout_below="@id/daysOfWeekTable"
+	    android:visibility="invisible" />
+	
+	<GridView 
+		android:id="@+id/gridview"
+		android:layout_width="match_parent" 
+		android:layout_height="wrap_content"	    
+		android:numColumns="7"
+		android:stretchMode="columnWidth"	
+	    android:layout_below="@id/daysOfWeekTable" />
+
+	
+	<TableLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:stretchColumns="*"
+	    android:layout_alignParentBottom="true">
+	    <TableRow 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content">
+	        <TextView 
+			    android:text="Days:"
+			    style="@style/EditText"/>
+	       	<TextView 
+				android:id="@+id/activityTotalDayMonthLog"
+			    android:text="150"
+				style="@style/TitleText"/>
+	       	<TextView 
+			    android:text="Sessions:"
+			    style="@style/EditText"/>
+	       	<TextView 
+				android:id="@+id/activityTotalUnitsMonthLog"
+			    android:text="150"
+				style="@style/TitleText"/>
+	       	<TextView 
+			    android:text="Hours:"
+			    style="@style/EditText"/>
+	       	<TextView 
+				android:id="@+id/activityTotalTimeMonthLog"
+			    android:text="150"
+				style="@style/TitleText"/>
+	    </TableRow>
+	    
+	</TableLayout>
+		
+</RelativeLayout>

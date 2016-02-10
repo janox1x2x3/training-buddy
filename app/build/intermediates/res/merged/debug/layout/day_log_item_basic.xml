@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp" >
+	<RelativeLayout 
+	    android:id="@+id/DayLogTableLayoutItem"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+	
+	        <TableLayout             
+	            android:id="@+id/activityDetailsTableLayout"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:stretchColumns="2">
+			    <TableRow 
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content">
+				    <TextView 
+						android:id="@+id/sportTypeDayLog"
+						android:text="Canoe Slalom"
+						android:layout_height="wrap_content"
+						android:layout_width="fill_parent"
+						style="@style/EditText"/>
+				    <TextView 
+				        android:id="@+id/id_activity"
+						android:layout_height="wrap_content"
+						android:layout_width="fill_parent"
+						android:textSize="0sp"/>
+				    
+				    <TextView 
+					    android:id="@+id/activityTimeDayLog"
+				        android:text="11:09"
+				        android:gravity="right"
+				        android:textColor="#ffffff"
+						style="@style/EditText"/>
+				    
+				</TableRow>
+			    <View 
+			        android:layout_height="1dp"
+			        android:layout_width="fill_parent"
+			        android:background="#33B5E5"/>
+			    
+			    <TableRow 
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content">
+				    <TextView 
+				        android:text="Total Time:"
+				        style="@style/DayLogSubText"
+				        android:textColor="#ffffff"/>
+					<TextView 
+					    android:id="@+id/activityTotalTimeDayLog"
+				        android:text="150"
+				        android:textColor="#ffffff"	        
+						style="@style/SubText"/>
+			    </TableRow>
+			    <TableRow 
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content">
+				    <TextView 
+				        android:text="Activity Details:"
+				        style="@style/DayLogSubText"
+				        android:textColor="#177BBD"/>
+			    </TableRow>
+			    <TableRow 
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content">
+			    </TableRow>
+	
+		</TableLayout>
+		
+	        <ImageView 
+	            android:id="@+id/training_icon"
+	            android:layout_width="75dp"
+	            android:layout_height="60dp"
+	            android:scaleType="fitXY"
+	            android:layout_marginRight="8dp"
+	            android:layout_alignParentRight="true"
+	            android:layout_marginTop="40dp" />	        
+		
+	        <LinearLayout 
+	            android:id="@+id/activityDaylogItemEditIconsLayout"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/training_icon"
+	            android:layout_marginRight="8dp"
+			    android:layout_alignParentBottom="true"
+			    android:layout_alignParentRight="true">
+				
+				<ImageView 
+		            android:id="@+id/editIcon"
+		            android:layout_width="30dp"
+		            android:layout_height="30dp"
+		            android:layout_marginRight="10dp"
+		            android:background="@drawable/pressed_sel"
+		            android:src="@android:drawable/ic_menu_manage"/>
+				
+				<ImageView 
+		            android:id="@+id/deleteIcon"
+		            android:layout_width="30dp"
+		            android:layout_height="30dp"
+		            android:background="@drawable/pressed_sel"
+		            android:src="@android:drawable/ic_menu_close_clear_cancel"/>
+			</LinearLayout>
+			
+	        	<TextView 
+				    android:id="@+id/activityDetailsDayLog"
+	        	    android:layout_height="wrap_content"
+	        	    android:layout_width="fill_parent"
+				    android:text="Rychlost, 4x5x10''(1')(5'')"
+				    android:textColor="#ffffff"
+				    android:layout_below="@id/activityDetailsTableLayout"
+				    android:layout_toLeftOf="@id/activityDaylogItemEditIconsLayout"
+				    style="@style/SubText"/>
+	
+	</RelativeLayout>
+			<View 
+			    android:layout_width="fill_parent"
+			    android:layout_height="5dp"  />
+</LinearLayout>

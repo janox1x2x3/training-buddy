@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.FragmentDayWiew" >
+
+    <RelativeLayout
+        android:id="@+id/headerDayLog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/titleDay"
+            style="@style/EditText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp"
+            android:text="15 April 2012" />
+
+        <ImageButton
+            android:id="@+id/nextDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/pressed_sel"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/next_day" />
+
+        <ImageButton
+            android:id="@+id/previousDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/nextDay"
+            android:background="@drawable/pressed_sel"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/previous_day" />
+    </RelativeLayout>
+
+    <TableLayout
+        android:id="@+id/dayLogTotals"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:paddingTop="10dp"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <TextView
+                style="@style/EditText"
+                android:layout_gravity="center_horizontal"
+                android:text="Sessions:" />
+
+            <TextView
+                style="@style/EditText"
+                android:layout_gravity="center_horizontal"
+                android:text="Total Time:" />
+        </TableRow>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#33B5E5" />
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <TextView
+                android:id="@+id/activityTotalUnits_DayLog"
+                style="@style/TitleText"
+                android:layout_gravity="center_horizontal"
+                android:text="150" />
+
+            <TextView
+                android:id="@+id/activityTotalTime_DayLog"
+                style="@style/TitleText"
+                android:layout_gravity="center_horizontal"
+                android:text="150" />
+        </TableRow>
+    </TableLayout>
+
+    <ScrollView
+        android:id="@+id/dayLogScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/dayLogTotals"
+        android:layout_below="@id/headerDayLog" >
+
+        <LinearLayout
+            android:id="@+id/dayLogItemsLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

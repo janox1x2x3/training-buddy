@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dp">
+		
+	    <TextView
+	        android:id="@+id/addActivityTitle"        
+	        android:text="Add Activity:"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+			style="@style/MonthText" />
+		
+	    <RelativeLayout 
+	        android:id="@+id/editActivity"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="10dp"
+	        android:layout_below="@id/addActivityTitle">
+	        
+	        <TextView 
+		        android:id="@+id/dateTitle"
+		        android:paddingTop="2dp"
+		        android:text="Date:"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        style="@style/SubText"/>
+	
+	        <TextView
+	            android:id="@+id/dateEdit"
+	            style="@style/EditText"
+	            android:text="15/04/1989"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerHorizontal="true"
+	            android:clickable="true"/>
+	        
+	        <TextView 
+		        android:id="@+id/timeTitle"
+		        android:text="Time:"	        
+		        android:paddingTop="10dp"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@id/dateTitle"
+		        style="@style/SubText"/>
+	
+	        <TextView
+	            android:id="@+id/timeEdit"
+	            style="@style/EditText"            
+		        android:paddingTop="5dp"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@id/dateEdit"
+	            android:layout_centerHorizontal="true"
+	            android:clickable="true"/>
+	        
+	        <TextView 
+		        android:id="@+id/sportTitle"
+		        android:text="Sport:"
+		        android:paddingTop="10dp"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@id/timeTitle"
+		        style="@style/SubText"/>
+	        
+	        <Spinner 
+	            android:id="@+id/sportSelectSpinner"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginTop="5dp"
+	            android:layout_marginLeft="10dp"
+	            android:layout_toRightOf="@id/sportTitle"
+	            android:layout_below="@id/timeTitle"/>
+	        
+	    </RelativeLayout>
+	    
+	    <View 
+	        android:id="@+id/sepLine"
+	        android:layout_width="fill_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="10dp"
+	        android:background="#33B5E5"
+	        android:layout_below="@id/editActivity"/>
+	    	    
+		<LinearLayout 
+		    android:id="@+id/activityDetails"
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+	        android:layout_below="@id/sepLine"/>
+		
+		<Button
+			android:id="@+id/submitBtn"
+			android:text="Submit"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_below="@id/activityDetails"
+			android:layout_alignParentRight="true"
+			android:background="@layout/button"
+			style="@style/ButtonText" />
+	    
+	</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="userSelect">Select User</string>
+    <string name="app_name">Training Buddy</string>
+   
+
+    <string name="valuesError">Some of important fields are empty!</string>
+
+    <string name="version">Version: 1.0</string>
+    <string name="aboutString">Training buddy transfers your smartphone into training diary, which stores
+        sport activities and provides you advanced review, on what have you been training. 
+        Purpose of creating this application is to let you store all kinds of sport activities at one place. 
+        As professional canoe-slalom paddler I was not able to find application, that can store all power, endurance and other 
+        specific activities in it. </string>
+    <string name="aboutString2">Application is still in development, so I would be more than pleased if you email me with your
+        opinions, improvements or bugs that you have found, so we can make this application better together.</string>
+    <string name="updateSync">Be not afraid of reinstalling application or switching your smartphone. Register, synchronize and store your activities safely on internet. 
+        EXISTING USERS - just register new account, you will not loose your already stored data!!! </string>
+    <string name="dialog_choose_app">Choose application:</string>
+    <string name="btn_register">I don\'t have an account</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="menu_register">REGISTER</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="hint_repeat_password">password repeat</string>
+    <string name="menu_next">NEXT</string>
+    <string name="progress_logging">signing in...</string>
+
+
+</resources>

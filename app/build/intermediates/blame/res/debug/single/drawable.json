@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_other.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_other.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_x_country.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_x_country.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/running.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/running.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_basketball.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_basketball.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_hockey.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_hockey.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_basket.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_basket.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_border.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_border.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_running.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_running.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_weight.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_weight.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_weightlifting.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_weightlifting.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_canoe.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_canoe.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_football.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_football.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/next_pressed.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/next_pressed.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_tennis.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_tennis.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_cycling.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_cycling.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_skiing.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_skiing.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_other.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_other.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/item_background_training.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/item_background_training.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_skate.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_skate.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_tennis.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_tennis.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_volleyball.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_volleyball.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_canoe.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_canoe.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_weightlifting.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_weightlifting.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/next_day.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/next_day.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/totals_border.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/totals_border.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_walking.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_walking.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_swimming.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_swimming.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_hockey.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_hockey.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_xcountry.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_xcountry.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/border_totals.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/border_totals.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/layout_line_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/layout_line_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_cycling.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_cycling.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_swimming.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_swimming.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_canoe.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_canoe.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_swimming.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_swimming.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/list_item_background_training.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/list_item_background_training.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/list_item_background_focused.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/list_item_background_focused.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_walking.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_walking.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_x_country.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_x_country.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_tennis.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_tennis.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_hockey.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_hockey.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/layout_line_right.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/layout_line_right.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/list_item_background.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/list_item_background.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_athletics.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_athletics.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/item_background_focused.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/item_background_focused.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_skate.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_skate.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_running.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_running.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/swimming.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/swimming.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/avatar.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_skiing.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_skiing.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_skiing.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_skiing.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/item_background_selected.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/item_background_selected.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_skate.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_skate.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/item_background.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/olympic.jpg",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/olympic.jpg"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_cycling.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_cycling.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_athletics.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_athletics.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_football.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_football.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_basketball.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_basketball.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_volley.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_volley.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/wel_grad.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/wel_grad.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/pressed_sel.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/pressed_sel.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/layout_line_top.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/layout_line_top.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_other.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_other.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/previous.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/previous.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_running.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_running.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_walking.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_walking.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/previous_day.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/previous_day.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/calendar_wallpaper.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/calendar_wallpaper.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/training_item_football.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/training_item_football.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/sports_athletics.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/sports_athletics.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/icon_volleyball.png",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/drawable/icon_volleyball.png"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    }
+]

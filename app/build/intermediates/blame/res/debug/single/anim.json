@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_heart_slid_up.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_heart_slid_up.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/record_debt_fade_out_coin.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/record_debt_fade_out_coin.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/grow_anim.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/grow_anim.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_135.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_135.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_left_enter.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/decelerate_interpolator.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/decelerate_interpolator.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_90.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_90.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_305.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_305.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/record_debt_peanut_slid_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/record_debt_peanut_slid_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_0.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_0.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/record_debt_burgers_slid_up.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/record_debt_burgers_slid_up.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_180.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_180.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/get_started_lyaout_text_anim.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/get_started_lyaout_text_anim.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_270.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_270.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_right_enter.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/drawer_text_slid_down_anim.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/drawer_text_slid_down_anim.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_bottom_enter.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_bottom_enter.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/decelerate_quint.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/decelerate_quint.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_left_exit.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_45.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_45.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_in_top.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/record_debt_heads_dollars_slid_up.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/record_debt_heads_dollars_slid_up.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_heads_dollars_slid_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_heads_dollars_slid_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_burgers_slid_up.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_burgers_slid_up.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_top_enter.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_top_enter.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/welcome_coins_slid_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/welcome_coins_slid_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/welcome_heads_slid_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/welcome_heads_slid_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/fragment_slide_right_exit.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/record_debt_dollar_slid_down.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/record_debt_dollar_slid_down.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/slide_out_top.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/slide_out_top.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/shrink_anim.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/shrink_anim.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/drawer_text_slid_up_anim.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/drawer_text_slid_up_anim.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/anim/settle_up_blast_215.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/anim/settle_up_blast_215.xml"
+    }
+]

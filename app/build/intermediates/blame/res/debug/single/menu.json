@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/menu/list_menu_longpress.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/menu/list_menu_longpress.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/jano/Documents/workspace-android/training-buddy/app/build/intermediates/res/merged/debug/menu/add_activity_menu.xml",
+        "source": "/home/jano/Documents/workspace-android/training-buddy/app/src/main/res/menu/add_activity_menu.xml"
+    }
+]

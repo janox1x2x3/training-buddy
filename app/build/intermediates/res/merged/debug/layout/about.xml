@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <!-- Header -->
+
+    <LinearLayout
+		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dip"
+		android:paddingRight="10dip">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="false"
+            android:src="@drawable/logo" />
+            
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/versionTextview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/header"
+        android:padding="5dp">
+	   <TextView 
+	        android:text="@string/version"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/authorTextviewLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true">
+	   <TextView 
+	        android:text="author: janox1x2x3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="right"/>
+	   <TextView 
+	        android:text="janox1x2x3@gmail.com"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="right"/>
+    </LinearLayout>
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingLeft="10dp"        
+        android:paddingRight="10dp"
+        android:layout_below="@id/versionTextview"
+        android:layout_above="@id/authorTextviewLayout">
+	   <LinearLayout 
+	       android:layout_width="fill_parent"
+	       android:layout_height="wrap_content"
+	       android:orientation="vertical">
+	       <TextView 
+	           android:text="@string/aboutString"
+	           android:layout_width="fill_parent"
+	           android:layout_height="wrap_content"
+		       style="@style/SubText"
+		       android:gravity="center_horizontal"
+		       android:textSize="15sp"/> 
+		   <TextView 
+	           android:text="@string/aboutString2"
+	           android:layout_width="fill_parent"
+	           android:layout_height="wrap_content"
+		       style="@style/SubText"
+		       android:gravity="center_horizontal"
+		       android:textSize="15sp"/> 
+	   	</LinearLayout>
+       
+    </ScrollView>
+    
+
+	        
+</RelativeLayout>
